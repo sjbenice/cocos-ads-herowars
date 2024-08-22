@@ -1,0 +1,97 @@
+
+worm.png
+size: 512, 512
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+skirt_monster/back_jaw_a
+  rotate: true
+  xy: 315, 232
+  size: 129, 122
+  orig: 129, 122
+  offset: 0, 0
+  index: -1
+skirt_monster/back_jaw_b
+  rotate: false
+  xy: 312, 363
+  size: 115, 144
+  orig: 115, 144
+  offset: 0, 0
+  index: -1
+skirt_monster/connection
+  rotate: false
+  xy: 2, 257
+  size: 308, 250
+  orig: 308, 250
+  offset: 0, 0
+  index: -1
+skirt_monster/eye closed
+  rotate: false
+  xy: 2, 73
+  size: 60, 84
+  orig: 97, 140
+  offset: 29, 31
+  index: -1
+skirt_monster/eye opened
+  rotate: false
+  xy: 357, 93
+  size: 95, 137
+  orig: 97, 140
+  offset: 2, 0
+  index: -1
+skirt_monster/head_b
+  rotate: false
+  xy: 85, 3
+  size: 270, 253
+  orig: 270, 253
+  offset: 0, 0
+  index: -1
+skirt_monster/tooth_a
+  rotate: true
+  xy: 429, 418
+  size: 89, 78
+  orig: 89, 78
+  offset: 0, 0
+  index: -1
+skirt_monster/tooth_b
+  rotate: true
+  xy: 454, 138
+  size: 91, 48
+  orig: 91, 48
+  offset: 0, 0
+  index: -1
+skirt_monster/tooth_c
+  rotate: true
+  xy: 449, 231
+  size: 104, 46
+  orig: 104, 49
+  offset: 0, 0
+  index: -1
+skirt_monster/tooth_d
+  rotate: false
+  xy: 357, 44
+  size: 107, 47
+  orig: 107, 47
+  offset: 0, 0
+  index: -1
+skirt_monster/tooth_e
+  rotate: true
+  xy: 2, 158
+  size: 97, 43
+  orig: 97, 43
+  offset: 0, 0
+  index: -1
+skirt_monster/tooth_f
+  rotate: true
+  xy: 439, 336
+  size: 94, 47
+  orig: 94, 47
+  offset: 0, 0
+  index: -1
+skirt_monster/tooth_g
+  rotate: false
+  xy: 2, 27
+  size: 78, 46
+  orig: 78, 46
+  offset: 0, 0
+  index: -1

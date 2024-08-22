@@ -1,0 +1,314 @@
+
+goblin_small.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fisher/buscket-front
+  rotate: false
+  xy: 96, 266
+  size: 57, 78
+  orig: 57, 78
+  offset: 0, 0
+  index: -1
+fisher/fisihing-rod
+  rotate: true
+  xy: 265, 275
+  size: 73, 90
+  orig: 74, 92
+  offset: 1, 0
+  index: -1
+fisher/hand_green
+  rotate: false
+  xy: 313, 132
+  size: 20, 21
+  orig: 23, 27
+  offset: 3, 3
+  index: -1
+fisher/hand_red
+  rotate: false
+  xy: 335, 132
+  size: 20, 21
+  orig: 23, 27
+  offset: 3, 3
+  index: -1
+goblin_green/arm_l
+  rotate: true
+  xy: 265, 222
+  size: 51, 83
+  orig: 53, 83
+  offset: 1, 0
+  index: -1
+goblin_green/arm_r
+  rotate: false
+  xy: 350, 207
+  size: 67, 57
+  orig: 67, 57
+  offset: 0, 0
+  index: -1
+goblin_green/belt
+  rotate: false
+  xy: 357, 266
+  size: 78, 83
+  orig: 78, 83
+  offset: 0, 0
+  index: -1
+goblin_green/calf_l
+  rotate: false
+  xy: 84, 134
+  size: 23, 39
+  orig: 23, 39
+  offset: 0, 0
+  index: -1
+goblin_green/calf_r
+  rotate: false
+  xy: 110, 137
+  size: 22, 39
+  orig: 22, 39
+  offset: 0, 0
+  index: -1
+goblin_green/eyes-blink
+  rotate: false
+  xy: 419, 216
+  size: 64, 38
+  orig: 64, 39
+  offset: 0, 1
+  index: -1
+goblin_green/foot_l
+  rotate: false
+  xy: 284, 136
+  size: 27, 24
+  orig: 27, 25
+  offset: 0, 1
+  index: -1
+goblin_green/foot_r
+  rotate: false
+  xy: 257, 134
+  size: 25, 26
+  orig: 27, 26
+  offset: 1, 0
+  index: -1
+goblin_green/forearm_l
+  rotate: false
+  xy: 419, 175
+  size: 48, 39
+  orig: 48, 40
+  offset: 0, 0
+  index: -1
+goblin_green/forearm_r
+  rotate: false
+  xy: 436, 256
+  size: 47, 93
+  orig: 48, 95
+  offset: 1, 0
+  index: -1
+goblin_green/hand_front_l
+  rotate: false
+  xy: 257, 162
+  size: 37, 18
+  orig: 38, 21
+  offset: 0, 2
+  index: -1
+goblin_green/hand_l
+  rotate: false
+  xy: 357, 133
+  size: 22, 16
+  orig: 22, 16
+  offset: 0, 0
+  index: -1
+goblin_green/hand_r
+  rotate: true
+  xy: 2, 133
+  size: 51, 50
+  orig: 53, 50
+  offset: 2, 0
+  index: -1
+goblin_green/hand_r_back
+  rotate: false
+  xy: 313, 155
+  size: 23, 21
+  orig: 25, 23
+  offset: 1, 1
+  index: -1
+goblin_green/head
+  rotate: false
+  xy: 2, 346
+  size: 155, 138
+  orig: 156, 138
+  offset: 1, 0
+  index: -1
+goblin_green/helmet
+  rotate: false
+  xy: 2, 262
+  size: 92, 82
+  orig: 99, 83
+  offset: 2, 1
+  index: -1
+goblin_green/spine
+  rotate: false
+  xy: 396, 351
+  size: 82, 133
+  orig: 82, 133
+  offset: 0, 0
+  index: -1
+goblin_green/sword
+  rotate: false
+  xy: 159, 350
+  size: 117, 134
+  orig: 117, 134
+  offset: 0, 0
+  index: -1
+goblin_green/thigh_l
+  rotate: true
+  xy: 300, 178
+  size: 42, 45
+  orig: 42, 45
+  offset: 0, 0
+  index: -1
+goblin_green/thigh_r
+  rotate: true
+  xy: 60, 174
+  size: 37, 47
+  orig: 37, 47
+  offset: 0, 0
+  index: -1
+goblin_red/arm_l
+  rotate: false
+  xy: 108, 178
+  size: 54, 32
+  orig: 54, 32
+  offset: 0, 0
+  index: -1
+goblin_red/arm_r
+  rotate: true
+  xy: 164, 169
+  size: 37, 43
+  orig: 37, 43
+  offset: 0, 0
+  index: -1
+goblin_red/belt
+  rotate: false
+  xy: 182, 208
+  size: 50, 53
+  orig: 50, 53
+  offset: 0, 0
+  index: -1
+goblin_red/calf_l
+  rotate: false
+  xy: 357, 152
+  size: 15, 25
+  orig: 15, 25
+  offset: 0, 0
+  index: -1
+goblin_red/calf_r
+  rotate: false
+  xy: 210, 181
+  size: 15, 26
+  orig: 15, 26
+  offset: 0, 0
+  index: -1
+goblin_red/eyes-blink
+  rotate: false
+  xy: 234, 182
+  size: 64, 38
+  orig: 64, 39
+  offset: 0, 1
+  index: -1
+goblin_red/foot_l
+  rotate: false
+  xy: 381, 133
+  size: 18, 17
+  orig: 18, 17
+  offset: 0, 0
+  index: -1
+goblin_red/foot_r
+  rotate: false
+  xy: 401, 133
+  size: 18, 17
+  orig: 18, 17
+  offset: 0, 0
+  index: -1
+goblin_red/forearm_l
+  rotate: false
+  xy: 54, 140
+  size: 28, 33
+  orig: 28, 33
+  offset: 0, 0
+  index: -1
+goblin_red/forearm_r
+  rotate: false
+  xy: 2, 185
+  size: 56, 34
+  orig: 57, 36
+  offset: 0, 1
+  index: -1
+goblin_red/hand_front_l
+  rotate: false
+  xy: 133, 145
+  size: 38, 21
+  orig: 38, 21
+  offset: 0, 0
+  index: -1
+goblin_red/hand_l
+  rotate: false
+  xy: 381, 152
+  size: 22, 16
+  orig: 22, 16
+  offset: 0, 0
+  index: -1
+goblin_red/hand_r
+  rotate: false
+  xy: 205, 133
+  size: 51, 50
+  orig: 53, 50
+  offset: 2, 0
+  index: -1
+goblin_red/head
+  rotate: false
+  xy: 159, 262
+  size: 104, 86
+  orig: 104, 86
+  offset: 0, 0
+  index: -1
+goblin_red/spine
+  rotate: true
+  xy: 96, 212
+  size: 53, 85
+  orig: 53, 85
+  offset: 0, 0
+  index: -1
+goblin_red/sword
+  rotate: false
+  xy: 277, 350
+  size: 117, 134
+  orig: 117, 134
+  offset: 0, 0
+  index: -1
+goblin_red/thigh_l
+  rotate: false
+  xy: 234, 231
+  size: 28, 29
+  orig: 28, 29
+  offset: 0, 0
+  index: -1
+goblin_red/thigh_r
+  rotate: false
+  xy: 173, 136
+  size: 25, 30
+  orig: 25, 30
+  offset: 0, 0
+  index: -1
+shadow/shadow_hard
+  rotate: false
+  xy: 347, 180
+  size: 61, 26
+  orig: 61, 26
+  offset: 0, 0
+  index: -1
+shadow/shadow_soft
+  rotate: false
+  xy: 2, 221
+  size: 78, 39
+  orig: 78, 39
+  offset: 0, 0
+  index: -1

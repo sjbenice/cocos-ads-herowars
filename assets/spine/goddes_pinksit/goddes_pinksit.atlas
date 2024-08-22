@@ -1,0 +1,160 @@
+
+goddes_pinksit.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+2Leg_back1
+  rotate: false
+  xy: 2, 103
+  size: 138, 81
+  orig: 143, 83
+  offset: 1, 1
+  index: -1
+2leg L 2
+  rotate: true
+  xy: 259, 282
+  size: 81, 185
+  orig: 84, 188
+  offset: 1, 1
+  index: -1
+2leg L 3
+  rotate: true
+  xy: 97, 5
+  size: 45, 99
+  orig: 47, 101
+  offset: 1, 1
+  index: -1
+2leg R 1
+  rotate: false
+  xy: 2, 186
+  size: 175, 77
+  orig: 177, 81
+  offset: 1, 2
+  index: -1
+2leg R 2
+  rotate: false
+  xy: 169, 295
+  size: 88, 209
+  orig: 88, 209
+  offset: 0, 0
+  index: -1
+2leg R 3
+  rotate: true
+  xy: 220, 39
+  size: 46, 103
+  orig: 48, 105
+  offset: 1, 1
+  index: -1
+arm
+  rotate: true
+  xy: 2, 33
+  size: 68, 93
+  orig: 70, 95
+  offset: 1, 1
+  index: -1
+arm-back
+  rotate: false
+  xy: 446, 302
+  size: 42, 120
+  orig: 44, 122
+  offset: 1, 1
+  index: -1
+body_clothes
+  rotate: false
+  xy: 390, 424
+  size: 112, 80
+  orig: 115, 83
+  offset: 1, 2
+  index: -1
+crown
+  rotate: false
+  xy: 180, 179
+  size: 138, 101
+  orig: 140, 103
+  offset: 1, 1
+  index: -1
+curls
+  rotate: true
+  xy: 198, 4
+  size: 23, 185
+  orig: 23, 185
+  offset: 0, 0
+  index: -1
+forearm
+  rotate: false
+  xy: 325, 21
+  size: 74, 57
+  orig: 76, 59
+  offset: 1, 1
+  index: -1
+forearm-back
+  rotate: false
+  xy: 414, 50
+  size: 32, 115
+  orig: 34, 130
+  offset: 1, 1
+  index: -1
+gold_detail
+  rotate: false
+  xy: 401, 12
+  size: 70, 36
+  orig: 74, 38
+  offset: 3, 1
+  index: -1
+hair_back
+  rotate: false
+  xy: 2, 265
+  size: 176, 240
+  orig: 181, 252
+  offset: 0, 12
+  index: -1
+hand
+  rotate: false
+  xy: 97, 469
+  size: 50, 35
+  orig: 52, 40
+  offset: 1, 1
+  index: -1
+hand-back
+  rotate: false
+  xy: 390, 390
+  size: 46, 32
+  orig: 48, 35
+  offset: 1, 1
+  index: -1
+head
+  rotate: false
+  xy: 259, 365
+  size: 129, 139
+  orig: 131, 143
+  offset: 1, 3
+  index: -1
+skirt
+  rotate: true
+  xy: 142, 52
+  size: 125, 89
+  orig: 125, 89
+  offset: 0, 0
+  index: -1
+skirt-back
+  rotate: 180
+  xy: 320, 168
+  size: 175, 115
+  orig: 182, 118
+  offset: 7, 0
+  index: -1
+skirt_back
+  rotate: true
+  xy: 448, 99
+  size: 69, 52
+  orig: 69, 52
+  offset: 0, 0
+  index: -1
+spine
+  rotate: 270
+  xy: 245, 80
+  size: 110, 167
+  orig: 110, 167
+  offset: 0, 0
+  index: -1

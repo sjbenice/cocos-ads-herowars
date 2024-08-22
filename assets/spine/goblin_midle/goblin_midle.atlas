@@ -1,0 +1,293 @@
+
+goblin_midle.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+green/arm-back-red
+  rotate: false
+  xy: 2, 586
+  size: 165, 137
+  orig: 165, 137
+  offset: 0, 0
+  index: -1
+green/arm-red
+  rotate: true
+  xy: 231, 494
+  size: 98, 130
+  orig: 98, 130
+  offset: 0, 0
+  index: -1
+green/calf-back-red
+  rotate: false
+  xy: 948, 706
+  size: 70, 94
+  orig: 70, 94
+  offset: 0, 0
+  index: -1
+green/calf-red
+  rotate: false
+  xy: 827, 373
+  size: 75, 72
+  orig: 78, 74
+  offset: 1, 1
+  index: -1
+green/finger-red
+  rotate: false
+  xy: 522, 596
+  size: 39, 46
+  orig: 39, 46
+  offset: 0, 0
+  index: -1
+green/foot-red
+  rotate: false
+  xy: 558, 412
+  size: 151, 66
+  orig: 153, 68
+  offset: 1, 1
+  index: -1
+green/forearm-back-red
+  rotate: false
+  xy: 460, 476
+  size: 112, 111
+  orig: 112, 111
+  offset: 0, 0
+  index: -1
+green/forearm-red
+  rotate: true
+  xy: 904, 503
+  size: 119, 118
+  orig: 119, 118
+  offset: 0, 0
+  index: -1
+green/hand-2-red
+  rotate: true
+  xy: 344, 384
+  size: 66, 76
+  orig: 66, 76
+  offset: 0, 0
+  index: -1
+green/hand-back-red
+  rotate: 270
+  xy: 753, 597
+  size: 134, 171
+  orig: 134, 171
+  offset: 0, 0
+  index: -1
+green/hand-red
+  rotate: false
+  xy: 949, 801
+  size: 67, 81
+  orig: 67, 81
+  offset: 0, 0
+  index: -1
+green/head-red
+  rotate: false
+  xy: 2, 725
+  size: 253, 298
+  orig: 253, 298
+  offset: 0, 0
+  index: -1
+green/thigh-back-red
+  rotate: true
+  xy: 113, 411
+  size: 82, 126
+  orig: 84, 128
+  offset: 1, 1
+  index: -1
+green/thigh-red
+  rotate: true
+  xy: 240, 394
+  size: 98, 102
+  orig: 102, 106
+  offset: 2, 2
+  index: -1
+red/arm-back-red
+  rotate: 180
+  xy: 363, 579
+  size: 162, 134
+  orig: 162, 134
+  offset: 0, 0
+  index: -1
+red/arm-red
+  rotate: true
+  xy: 775, 474
+  size: 95, 127
+  orig: 95, 127
+  offset: 0, 0
+  index: -1
+red/belt
+  rotate: false
+  xy: 574, 479
+  size: 169, 69
+  orig: 169, 69
+  offset: 0, 0
+  index: -1
+red/belt-2
+  rotate: 270
+  xy: 442, 393
+  size: 82, 113
+  orig: 82, 113
+  offset: 0, 0
+  index: -1
+red/blink
+  rotate: false
+  xy: 989, 905
+  size: 8, 6
+  orig: 9, 6
+  offset: 1, 0
+  index: -1
+red/calf-back-red
+  rotate: true
+  xy: 2, 408
+  size: 67, 91
+  orig: 67, 91
+  offset: 0, 0
+  index: -1
+red/calf-red
+  rotate: false
+  xy: 143, 627
+  size: 75, 71
+  orig: 75, 71
+  offset: 0, 0
+  index: -1
+red/eyeball
+  rotate: false
+  xy: 674, 853
+  size: 26, 29
+  orig: 26, 29
+  offset: 0, 0
+  index: -1
+red/eyeball-back
+  rotate: false
+  xy: 387, 694
+  size: 36, 32
+  orig: 36, 32
+  offset: 0, 0
+  index: -1
+red/eyes-closed-red
+  rotate: true
+  xy: 978, 913
+  size: 109, 35
+  orig: 110, 36
+  offset: 1, 1
+  index: -1
+red/finger-red
+  rotate: true
+  xy: 753, 379
+  size: 36, 43
+  orig: 36, 43
+  offset: 0, 0
+  index: -1
+red/foot-red
+  rotate: false
+  xy: 710, 409
+  size: 151, 65
+  orig: 151, 65
+  offset: 0, 0
+  index: -1
+red/forearm-back-red
+  rotate: false
+  xy: 2, 477
+  size: 109, 108
+  orig: 109, 108
+  offset: 0, 0
+  index: -1
+red/forearm-red
+  rotate: false
+  xy: 113, 501
+  size: 116, 115
+  orig: 116, 115
+  offset: 0, 0
+  index: -1
+red/hand-2-red
+  rotate: true
+  xy: 705, 820
+  size: 63, 74
+  orig: 63, 74
+  offset: 0, 0
+  index: -1
+red/hand-back-red
+  rotate: true
+  xy: 219, 595
+  size: 132, 168
+  orig: 132, 168
+  offset: 0, 0
+  index: -1
+red/hand-red
+  rotate: false
+  xy: 926, 625
+  size: 64, 78
+  orig: 64, 78
+  offset: 0, 0
+  index: -1
+red/hand-sword-red
+  rotate: true
+  xy: 508, 884
+  size: 138, 468
+  orig: 138, 468
+  offset: 0, 0
+  index: -1
+red/head-red
+  rotate: false
+  xy: 256, 728
+  size: 250, 295
+  orig: 250, 295
+  offset: 0, 0
+  index: -1
+red/pupil
+  rotate: false
+  xy: 978, 894
+  size: 9, 17
+  orig: 9, 17
+  offset: 0, 0
+  index: -1
+red/shoulder-back
+  rotate: false
+  xy: 786, 733
+  size: 161, 149
+  orig: 161, 149
+  offset: 0, 0
+  index: -1
+red/skirt
+  rotate: false
+  xy: 565, 550
+  size: 237, 87
+  orig: 237, 87
+  offset: 0, 0
+  index: -1
+red/spine
+  rotate: true
+  xy: 508, 619
+  size: 264, 277
+  orig: 533, 635
+  offset: 161, 187
+  index: -1
+red/thigh-back-red
+  rotate: false
+  xy: 363, 451
+  size: 81, 125
+  orig: 81, 125
+  offset: 0, 0
+  index: -1
+red/thigh-red
+  rotate: true
+  xy: 904, 403
+  size: 98, 103
+  orig: 99, 103
+  offset: 1, 0
+  index: -1
+shadow/shadow_hard
+  rotate: false
+  xy: 690, 388
+  size: 61, 26
+  orig: 61, 26
+  offset: 0, 0
+  index: -1
+shadow/shadow_soft
+  rotate: false
+  xy: 557, 384
+  size: 71, 33
+  orig: 78, 39
+  offset: 4, 3
+  index: -1

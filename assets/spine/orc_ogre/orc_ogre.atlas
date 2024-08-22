@@ -1,0 +1,237 @@
+
+orc_ogre.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arm_l
+  rotate: false
+  xy: 682, 345
+  size: 183, 153
+  orig: 183, 153
+  offset: 0, 0
+  index: -1
+arm_r
+  rotate: true
+  xy: 683, 500
+  size: 206, 285
+  orig: 206, 291
+  offset: 0, 0
+  index: -1
+axe
+  rotate: false
+  xy: 2, 651
+  size: 309, 347
+  orig: 309, 347
+  offset: 0, 0
+  index: -1
+belt
+  rotate: false
+  xy: 2, 454
+  size: 304, 196
+  orig: 304, 196
+  offset: 0, 0
+  index: -1
+big_finger_l
+  rotate: false
+  xy: 313, 923
+  size: 40, 75
+  orig: 40, 75
+  offset: 0, 0
+  index: -1
+big_finger_r
+  rotate: false
+  xy: 313, 874
+  size: 26, 47
+  orig: 26, 47
+  offset: 0, 0
+  index: -1
+calf
+  rotate: true
+  xy: 610, 241
+  size: 102, 168
+  orig: 102, 168
+  offset: 0, 0
+  index: -1
+calf-back
+  rotate: false
+  xy: 511, 449
+  size: 169, 172
+  orig: 169, 172
+  offset: 0, 0
+  index: -1
+ear_l
+  rotate: false
+  xy: 780, 249
+  size: 66, 94
+  orig: 67, 94
+  offset: 0, 0
+  index: -1
+ear_r
+  rotate: false
+  xy: 641, 794
+  size: 51, 85
+  orig: 51, 85
+  offset: 0, 0
+  index: -1
+eyeball
+  rotate: false
+  xy: 313, 859
+  size: 24, 13
+  orig: 25, 14
+  offset: 0, 1
+  index: -1
+eyebrows
+  rotate: false
+  xy: 585, 185
+  size: 110, 35
+  orig: 110, 35
+  offset: 0, 0
+  index: -1
+fingers_r
+  rotate: false
+  xy: 192, 365
+  size: 77, 87
+  orig: 77, 87
+  offset: 0, 0
+  index: -1
+fist_l
+  rotate: true
+  xy: 128, 177
+  size: 99, 120
+  orig: 100, 120
+  offset: 1, 0
+  index: -1
+foot_l
+  rotate: true
+  xy: 590, 881
+  size: 118, 93
+  orig: 118, 93
+  offset: 0, 0
+  index: -1
+foot_r
+  rotate: false
+  xy: 250, 182
+  size: 104, 82
+  orig: 104, 82
+  offset: 0, 0
+  index: -1
+forearm_l
+  rotate: true
+  xy: 457, 315
+  size: 132, 151
+  orig: 132, 152
+  offset: 0, 0
+  index: -1
+forearm_r
+  rotate: false
+  xy: 867, 234
+  size: 129, 128
+  orig: 129, 128
+  offset: 0, 0
+  index: -1
+hair_tail
+  rotate: false
+  xy: 2, 179
+  size: 124, 97
+  orig: 124, 97
+  offset: 0, 0
+  index: -1
+hand_r
+  rotate: false
+  xy: 610, 373
+  size: 69, 74
+  orig: 69, 74
+  offset: 0, 0
+  index: -1
+head
+  rotate: true
+  xy: 307, 469
+  size: 149, 202
+  orig: 149, 202
+  offset: 0, 0
+  index: -1
+jaw
+  rotate: 270
+  xy: 399, 183
+  size: 107, 187
+  orig: 107, 187
+  offset: 0, 0
+  index: -1
+pigtail_l
+  rotate: true
+  xy: 254, 266
+  size: 47, 263
+  orig: 47, 263
+  offset: 0, 0
+  index: -1
+pigtail_r
+  rotate: true
+  xy: 2, 278
+  size: 54, 250
+  orig: 54, 251
+  offset: 0, 0
+  index: -1
+pupil
+  rotate: false
+  xy: 313, 845
+  size: 13, 12
+  orig: 13, 12
+  offset: 0, 0
+  index: -1
+shadow-head
+  rotate: true
+  xy: 867, 364
+  size: 134, 130
+  orig: 134, 130
+  offset: 0, 0
+  index: -1
+shadow_hard
+  rotate: false
+  xy: 265, 628
+  size: 52, 21
+  orig: 52, 21
+  offset: 0, 0
+  index: -1
+shadow_soft
+  rotate: false
+  xy: 355, 982
+  size: 43, 16
+  orig: 45, 18
+  offset: 1, 1
+  index: -1
+shoulder_back_l
+  rotate: false
+  xy: 2, 620
+  size: 65, 29
+  orig: 65, 29
+  offset: 0, 0
+  index: -1
+shoulder_l
+  rotate: false
+  xy: 696, 708
+  size: 225, 291
+  orig: 225, 291
+  offset: 0, 0
+  index: -1
+spine
+  rotate: false
+  xy: 313, 620
+  size: 382, 378
+  orig: 382, 378
+  offset: 0, 0
+  index: -1
+thigh
+  rotate: true
+  xy: 273, 324
+  size: 143, 182
+  orig: 143, 182
+  offset: 0, 0
+  index: -1
+thigh-back
+  rotate: true
+  xy: 2, 334
+  size: 126, 188
+  orig: 126, 189
+  offset: 0, 1
+  index: -1
